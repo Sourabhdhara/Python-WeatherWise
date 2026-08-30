@@ -80,7 +80,7 @@ No Flask, no web server, no database, and no API keys are required anywhere in t
 ## 4. Project Structure
 
 ```
-weather_gui_colorful_full.py   ← the entire application (single file)
+WeatherWise.py   ← the entire application (single file)
 ```
 
 The whole app intentionally lives in **one file** so it's easy to read top-to-bottom and
